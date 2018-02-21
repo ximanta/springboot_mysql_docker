@@ -4,9 +4,9 @@ This repository has the project files for a tutorial series on Spring Boot avail
 
 ## Steps
 
-Clone this repo
-Write Dockerfile
-Build image
-Run container
+1. Clone this repo
+2. Write Dockerfile
+3. Build image
+4. Run container
 
 The app should connect with MySQL running on  adifferent container.
